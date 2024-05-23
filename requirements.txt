@@ -1,0 +1,11 @@
+pandas==2.1.4
+numpy==1.26.0
+torchvision==0.15.0
+pytorch==1.0.2
+scikit-learn==1.3.2
+matplotlib==3.8.1
+seaborn==0.12.2
+skorch==0.15.0
+joblib==1.3.2
+imbalanced-learn==0.12.0
+ucimlrepo==0.0.3
